@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:yohemal/utiwa_whiteframe_temp",
+  "textures": {
+    "texture": "minecraft:yohemal/utiwa_bari_01"
+  }
+}

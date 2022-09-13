@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cyan_dye"
+  },
+    "overrides": [
+         {"predicate": {"custom_model_data": 1},"model": "yohemal/utiwa_01"},
+         {"predicate": {"custom_model_data": 2},"model": "yohemal/utiwa_02"},
+         {"predicate": {"custom_model_data": 3},"model": "yohemal/utiwa_03"},
+         {"predicate": {"custom_model_data": 4},"model": "yohemal/utiwa_04"},
+         {"predicate": {"custom_model_data": 5},"model": "yohemal/utiwa_05"}
+        ]
+}
